@@ -341,7 +341,7 @@
   },
   {
     "id": 27,
-    "emoji": " stamp",
+    "emoji": "📮",
     "japanese": "きって",
     "pronunciation": "কিত্তে",
     "meaning": "স্ট্যাম্প",
@@ -354,7 +354,7 @@
   },
   {
     "id": 28,
-    "emoji": " postcard",
+    "emoji": "✉️",
     "japanese": "はがき",
     "pronunciation": "হাগাকি",
     "meaning": "পোস্টকার্ড",
@@ -601,7 +601,7 @@
   },
   {
     "id": 47,
-    "emoji": "approximate",
+    "emoji": "≈",
     "japanese": "ぐらい",
     "pronunciation": "গুরাই",
     "meaning": "প্রায়",
@@ -614,10 +614,10 @@
   },
   {
     "id": 48,
-    "emoji": "how long",
+    "emoji": "❓⏰",
     "japanese": "どのぐらい",
     "pronunciation": "দোনো গুরাই",
-    "meaning": "কত সময়",
+    "meaning": "কত সময়",
     "comment": "সময়কাল বা পরিমাণ জানতে প্রশ্ন করতে ব্যবহৃত হয়।",
     "sentence": {
       "jp": "どのぐらいにほんごをべんきょうしましたか。",
@@ -653,7 +653,7 @@
   },
   {
     "id": 51,
-    "emoji": "only",
+    "emoji": "1️⃣",
     "japanese": "だけ",
     "pronunciation": "দাকে",
     "meaning": "শুধুমাত্র",
@@ -666,15 +666,15 @@
   },
   {
     "id": 52,
-    "emoji": "understand",
+    "emoji": "👍",
     "japanese": "かしこまりました",
-    "pronunciation": "কাশিকোমariমাশিতা",
+    "pronunciation": "কাশিকোমারিমashita",
     "meaning": "বুঝতে পেরেছি (সম্মানসূচক)",
     "comment": "উচ্চ সম্মানসূচকভাবে কোনো আদেশ বা অনুরোধ গ্রহণ করা বোঝাতে ব্যবহৃত হয়।",
     "sentence": {
       "jp": "かしこまりました。",
       "bn": "বুঝতে পেরেছি।",
-      "pronunciation": "কাশিকোমariমাশিতা।"
+      "pronunciation": "কাশিকোমারিমashita।"
     }
   },
   {
@@ -694,13 +694,13 @@
     "id": 54,
     "emoji": "👋",
     "japanese": "おでかけですか",
-    "pronunciation": "ওদেকake দেসু কা",
+    "pronunciation": "ওদেkake দেসু কা",
     "meaning": "আপনি কি বাইরে যাচ্ছেন?",
     "comment": "যখন কেউ বাড়ি থেকে বের হচ্ছে, তখন বলা হয়।",
     "sentence": {
       "jp": "おでかけですか。",
       "bn": "আপনি কি বাইরে যাচ্ছেন?",
-      "pronunciation": "ওদেকake দেসু কা?"
+      "pronunciation": "ওদেkake দেসু কা?"
     }
   },
   {
@@ -721,7 +721,7 @@
     "emoji": "👋",
     "japanese": "いって いらっしゃい",
     "pronunciation": "ইৎতে ইরাশshাই",
-    "meaning": "যাও এবং ফিরে এসো (বিদায়)",
+    "meaning": "যাও এবং ফিরে এসো (বিদায়)",
     "comment": "যাওয়ার সময় অন্যকে বলা হয়।",
     "sentence": {
       "jp": "いって いらっしゃい。",
@@ -769,7 +769,7 @@
     }
   },
   {
-    "id": 60,
+     "id": 60,
     "emoji": "🤝",
     "japanese": "おねがいします",
     "pronunciation": "ওনেগাইশিমাছু",
@@ -795,5 +795,4 @@
     }
   }
 ]
-
 }
